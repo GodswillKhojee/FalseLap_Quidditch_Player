@@ -67,19 +67,9 @@ The game focuses on delivering clean visuals and a smooth racing experience desp
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1. Run the Game
 
-```bash
-git clone <repository-url>
-```
-
-### 2. Open in Unity
-
-Open the cloned project using the appropriate version of **Unity**.
-
-### 3. Run the Game
-
-Open the main game scene and press **Play** in the Unity Editor.
+Use the link : quidditchplayers-falselap.netlify.app/
 
 ---
 
